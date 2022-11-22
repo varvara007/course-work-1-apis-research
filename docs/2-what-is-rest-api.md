@@ -32,7 +32,7 @@ HTTP это сетевой протокол, который позволяет �
 
 Структура HTTP ответа (Response)  состоит из
 
-- Method: {GET|POST|PUT|DELETE}
+- Status code 200 OK
 - Path: /about
 - Headers: {Content-type, Content-Size}
 - Body: {TEXT DATA}
