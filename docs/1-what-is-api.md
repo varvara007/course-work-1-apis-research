@@ -11,7 +11,7 @@
 Или стандартные цоколи лампочек (USB), которые популярны в России:
 
 
-<img src="https://www.aydinlatma.org/wp-content/uploads/2020/06/E27-ve-E14-Duy.jpg" width="400" height="300" />
+<img src="https://www.aydinlatma.org/wp-content/uploads/2020/06/E27-ve-E14-Duy.jpg" width=45% height=45% />
 
 `consumer <> producer communication`
 
