@@ -1,7 +1,6 @@
-# Что такое API 
+# Изучение технологии API в целом
 
 
-### Интерфейсы в бытовой жизни
 
 API - Application Programming Interface
 
