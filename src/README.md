@@ -3,5 +3,5 @@
 2. GRPC
 3. GRAPHQL
  ```py
-print("hello")
-```
+print("hello");
+``` 
