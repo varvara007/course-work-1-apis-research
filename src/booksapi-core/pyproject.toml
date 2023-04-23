@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "booksapi-core"
+version = "0.1.0"
+description = ""
+authors = ["Varvara <116665835+varvara007@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "booksapi_core"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
