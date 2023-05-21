@@ -7,5 +7,5 @@ class Book:
     author: str
     id: int
     year: int
-    count_of_pages: int
+    pages: int
 
