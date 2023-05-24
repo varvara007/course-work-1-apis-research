@@ -1,0 +1,16 @@
+syntax = "proto3";
+import "requests.proto";
+import "responses.proto";
+
+
+service BooksService {
+  rpc GetBook(GetBookByIDRequest) returns (BookResponse) {
+
+  }
+  rpc ListBooks(ListBooksRequest) returns (ListBooksResponse) {
+
+  }
+  rpc CreateBook(CreateBookRequest) returns (BookResponse) {
+
+  }
+}

@@ -1,0 +1,15 @@
+syntax = 'proto3';
+
+
+message GetBookByIDRequest {
+  int32 book_id = 1;
+}
+message CreateBookRequest {
+  string name = 1;
+  string author = 2;
+  int32 year = 3;
+  int32 pages = 4;
+}
+message ListBooksRequest {
+  int32 page_size = 1;
+}
